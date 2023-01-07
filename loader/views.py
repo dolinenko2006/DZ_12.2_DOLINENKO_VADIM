@@ -1,6 +1,10 @@
 from flask import Blueprint, render_template, request
 from loader.utils import save_picture
 from main.utils import PostHandler
+import logging
+
+logging.basicConfig(filename='basic.log', level=logging.INFO)
+
 
 loader_blueprint = Blueprint('loader_blueprint', __name__, template_folder='templates')
 
@@ -18,7 +22,8 @@ def create_new_post():
 
     picture_path = save_picture(picture)
     if not picture_path:
-        return "Загружено не изображение"
+        logging.info('Загружено не изображение')
+        return 'Загружено не изображение'
 
     post_handler = PostHandler('posts.json')
     new_post = {'pic': picture_path, 'content': content}
