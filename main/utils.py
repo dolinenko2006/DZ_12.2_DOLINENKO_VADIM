@@ -1,5 +1,5 @@
 import json
-
+from json import JSONDecodeError
 class PostHandler():
     def __init__(self, path):
         self.path = path
@@ -7,7 +7,7 @@ class PostHandler():
     def load_posts(self):
         posts = []
         try:
-              with open (self, path, 'r', encoding='utf-8') as file:
+              with open (self.path, 'r', encoding='utf-8') as file:
                   posts = json.load(file)
         except JSONDecodeError:
             return posts, 'Ошибка получения данных из JSON'

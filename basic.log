@@ -1,0 +1,356 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:38:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:38:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:38:39] "[35m[1mGET /search?s=asdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:38:39] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:38:39] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:38:40] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:38:49] "[35m[1mGET /search?s=test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:38:49] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:38:49] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:38:49] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:40:15] "[35m[1mGET /search?s=1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:40:16] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:40:16] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:40:16] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Evgenia\\PycharmProjects\\DZ_12.2_DOLINENKO_VADIM\\main\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug: * Detected change in 'C:\\Users\\Evgenia\\PycharmProjects\\DZ_12.2_DOLINENKO_VADIM\\main\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:42:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:42:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:42:10] "[35m[1mGET /search?s=test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:42:10] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:42:10] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:42:11] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:45:53] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:45:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:16] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:16] "GET /uploads/бабочка.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:21] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:28] "[35m[1mGET /search?s=бабочка HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:28] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:28] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 16:46:28] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Evgenia\\PycharmProjects\\DZ_12.2_DOLINENKO_VADIM\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug: * Detected change in 'C:\\Users\\Evgenia\\PycharmProjects\\DZ_12.2_DOLINENKO_VADIM\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug: * Detected change in 'C:\\Users\\Evgenia\\PycharmProjects\\DZ_12.2_DOLINENKO_VADIM\\loader\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:05] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:05] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:10] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:13] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:13] "GET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:13] "GET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:14] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:26] "[35m[1mGET /search?s=баба HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:15:26] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:20:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:20:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:20:52] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:20:53] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:20:53] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:20:53] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:02] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:02] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:02] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:02] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:09] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:11] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загружено не изображение
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:33] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:35] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:53] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:53] "GET /uploads/hq-wallpapers_ru_abstraction3d_38164_1920x1080.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:57] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:59] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:59] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:59] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:22:59] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:29:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:29:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:29:02] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:29:02] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:29:02] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:29:02] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: sdf
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:20] "[35m[1mGET /search?s=sdf HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:20] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:20] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:21] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: бабочка
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:30] "[35m[1mGET /search?s=бабочка HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:31] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:31] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:31] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:root:Поиск: noname
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:53] "[35m[1mGET /search?s=noname HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:53] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:53] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:31:53] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:root:Поиск: noname
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:36:07] "[35m[1mGET /search?s=noname HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:36:09] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:36:09] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:36:10] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: noname
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:36:12] "[35m[1mGET /search?s=noname HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:36:12] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:36:12] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:36:12] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:36:12] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:root:Поиск: noname
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:39:11] "[35m[1mGET /search?s=noname HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:39:12] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:39:12] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:39:12] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: бабочка
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:40:24] "[35m[1mGET /search?s=бабочка HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:40:25] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:40:25] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:40:25] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: test
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:40:43] "[35m[1mGET /search?s=test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:40:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:40:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:40:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: test
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:20] "[35m[1mGET /search?s=test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:21] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:21] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:21] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:root:Поиск: test
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:41] "[35m[1mGET /search?s=test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:47] "[35m[1mGET /search?s=ага HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:48] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:48] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:48] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:54] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:46:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:12] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:12] "GET /uploads/бабочка.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:19] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:19] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:19] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:19] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: бабочка
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:25] "[35m[1mGET /search?s=бабочка HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:25] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:25] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:47:25] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:54:45] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:54:45] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:54:45] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:54:46] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 17:54:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:11:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:11:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:11:53] "[35m[1mGET /search?s= HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:11:54] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:11:54] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:11:54] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:11:56] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:11:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:12:10] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:12:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:12:10] "GET /uploads/бабочка.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:23:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:23:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: оп
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:23:23] "[35m[1mGET /search?s=оп HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:23:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:23:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:23:23] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:23:29] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:29] "[35m[1mGET /search?s=ага HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:29] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:29] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:29] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: бабочка
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:57] "[35m[1mGET /search?s=бабочка HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:57] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:57] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:26:57] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 107-058-930
+INFO:root:Поиск: бабочка
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:21] "[35m[1mGET /search?s=бабочка HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:22] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:22] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:22] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: tet
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:38] "[35m[1mGET /search?s=tet HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:38] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:38] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:38] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: test
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:43] "[35m[1mGET /search?s=test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:28:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Поиск: бабочка
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:29:07] "[35m[1mGET /search?s=бабочка HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:29:07] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:29:07] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jan/2023 18:29:08] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

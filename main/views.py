@@ -11,10 +11,10 @@ def mein_page():
 
 @main_blueprint.route('/search')
 def search_page():
-    subst = request.args.get('s')
+    substr = request.args.get('s')
     logging.info(f'Поиск: {substr}')
     post_handler = PostHandler('post.json')
-    posts.error = post_handler.search_posts(substr)
+    posts, error = post_handler.search_posts(substr)
     if error:
         logger.info('Ошибка: {error}')
         return 'Ошибка!'
