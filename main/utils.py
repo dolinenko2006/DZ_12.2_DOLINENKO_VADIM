@@ -1,7 +1,7 @@
 import json
 
 class PostHandler():
-    def __int__(self, path):
+    def __init__(self, path):
         self.path = path
 
     def load_posts(self):
@@ -22,11 +22,11 @@ class PostHandler():
 
 
     def save_posts_to_json(self, posts):
-        with open (self, path, 'w', encoding='utf-8') as file:
+        with open (self.path, 'w', encoding='utf-8') as file:
             json.dump(posts, file)
 
 
     def add_post (self, post):
         posts = self.load_posts()
-        post.append(post)
+        posts.append(post)
         self.save_posts_to_json(posts)
