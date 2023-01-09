@@ -13,7 +13,7 @@ def mein_page():
 def search_page():
     substr = request.args.get('s')
     logging.info(f'Поиск: {substr}')
-    post_handler = PostHandler('post.json')
+    post_handler = PostHandler('posts.json')
     posts, error = post_handler.search_posts(substr)
     if error:
         logger.info('Ошибка: {error}')
