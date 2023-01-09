@@ -1,16 +1,19 @@
 werkzeug  * Debugger is active!
 werkzeug  * Debugger PIN: 107-058-930
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:01:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
-root Поиск: бабочка
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:01:54] "[35m[1mGET /search?s=бабочка HTTP/1.1[0m" 500 -
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:01:55] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:01:55] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:01:55] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:01:58] "GET /post HTTP/1.1" 200 -
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:01:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
-root Поиск: бабочка
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:02:03] "[35m[1mGET /search?s=бабочка HTTP/1.1[0m" 500 -
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:02:03] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:02:03] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
-werkzeug 127.0.0.1 - - [07/Jan/2023 20:02:03] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-urce&f=console.png HTTP/1.1[0m" 304 -
+root Поиск: None
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:42] "[35m[1mGET /search?from=5&to=65 HTTP/1.1[0m" 500 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:42] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:47] "GET / HTTP/1.1" 200 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:50] "GET /post HTTP/1.1" 200 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:53] "GET / HTTP/1.1" 200 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+root Поиск: ага
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:58] "[35m[1mGET /search?s=ага HTTP/1.1[0m" 500 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug 127.0.0.1 - - [09/Jan/2023 19:04:58] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+GET /search?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
