@@ -9,14 +9,15 @@ class PostHandler():
         try:
               with open (self.path, 'r', encoding='utf-8') as file:
                   posts = json.load(file)
+
         except JSONDecodeError:
-            return posts, 'Ошибка получения данных из JSON'
+              return posts, 'Ошибка получения данных из JSON'
         return posts, None
 
     def search_posts (self, substr):
         posts =[]
         load_posts, error = self.load_posts()
-        for posts in load_posts():
+        for post in load_posts:
             if substr.lower() in post['content'].lower():
                 posts.append(post)
         return posts, error
