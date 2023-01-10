@@ -1,11 +1,13 @@
 /* Селекторы по тегам */
 
 body {
+    background-color: cornflowerblue;
     font-family: arial;
     font-size: 18px;
 }
 
 main {
+    background-color: cornflowerblue;
     margin: 32px auto;
     width: 320px;
 }
@@ -41,6 +43,7 @@ input[type=file] {
 }
 
 a {
+    background-color: cornflowerblue;
     color: black;
     font-size: 16px;
 }
