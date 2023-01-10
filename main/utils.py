@@ -16,11 +16,10 @@ class PostHandler():
     def search_posts (self, substr):
         posts =[]
         load_posts, error = self.load_posts()
-        for post in load_posts():
+        for posts in load_posts():
             if substr.lower() in post['content'].lower():
                 posts.append(post)
         return posts, error
-
 
 
     def save_posts_to_json(self, posts):
